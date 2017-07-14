@@ -5,3 +5,6 @@ At Columbia, I worked on different topics in Machine Learning. Here are a few sa
 - The effect of missing data.
 - Building a classifier for cancer data with cross-validation and SVMs.
 - A basic Page-Rank algorithm.
+
+Illustration of Page Rank results:
+![alt tag](https://github.com/mluisada/Refugee_Project/blob/master/page_rank.png)
