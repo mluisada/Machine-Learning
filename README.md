@@ -7,4 +7,4 @@ At Columbia, I worked on different topics in Machine Learning. Here are a few sa
 - A basic Page-Rank algorithm.
 
 Illustration of Page Rank results:
-![alt tag](https://github.com/mluisada/Refugee_Project/blob/master/page_rank.png)
+![alt tag](https://github.com/mluisada/Machine-Learning/blob/master/page_rank.png)
